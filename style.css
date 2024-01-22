@@ -2,4 +2,25 @@ body {
     background-color: blanchedalmond;
     font-family: Tahoma, 'Times New Roman', Times, serif;
     color: black;
+    font-size: 20px;
+}
+
+/* * {
+  border: 2px solid red;
+} */
+
+h1 {
+  text-align: center;
+}
+
+.intro {
+  margin-bottom: 2rem;
+}
+.recipes {
+    /* display: flex ; */
+}
+
+.recipe_page {
+    display: block;
+    text-align: center;
 }
